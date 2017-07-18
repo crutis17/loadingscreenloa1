@@ -105,7 +105,9 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us on LOA Networks!",
-	"Make sure to follow the rules always."
+	"Make sure to follow the rules always.",
+	"Founder Of LOA Networks: Llama.",
+	"Owner Of LOA Networks: Kai."
 ];
 
 /*Random message order?*/
